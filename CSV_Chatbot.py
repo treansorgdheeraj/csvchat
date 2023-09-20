@@ -4,6 +4,7 @@ import os
 import pandas as pd
 import re
 from pandasai import PandasAI
+import tkinter as tk
 import matplotlib
 matplotlib.use('TkAgg')
 #OPENAI_API_KEY = st.secrets['OPENAI_API_KEY']
