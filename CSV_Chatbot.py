@@ -5,7 +5,7 @@ import pandas as pd
 import re
 from pandasai import PandasAI
 import matplotlib
-matplotlib.use('Agg')
+matplotlib.use('WebAgg')
 #OPENAI_API_KEY = st.secrets['OPENAI_API_KEY']
 os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 
