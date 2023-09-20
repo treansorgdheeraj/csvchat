@@ -1,0 +1,12 @@
+langchain
+PyPDF2
+streamlit
+faiss-cpu
+streamlit-extras
+openai
+tiktoken
+yfinance
+pandasai
+tk
+matplotlib
+pandas
